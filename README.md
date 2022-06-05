@@ -1,4 +1,4 @@
-# Data Visualization Portfolio Projects
+# Data Analysis & Visualization Portfolio Projects
 ## The following are my projects in Excel: <br />
 #### *Feel free to connect with me on Linkedin : [Dazon Worthey](https://www.linkedin.com/in/dazonw/)* <br />
 
