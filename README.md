@@ -1,5 +1,5 @@
 # Portfolio-Projects
-The following are my Projects in Excel
+
 
 Please connect with me on my LinkedIn: https://www.linkedin.com/in/dazonw/
 
