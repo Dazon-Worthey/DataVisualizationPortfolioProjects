@@ -48,4 +48,4 @@
 
 - Sales Data Analysis Project: Data Visualization
 
-![Dashboard](PowerBI/Sales Dashboard Screenshot.png)
+![Dashboard](https://github.com/Dazon-Worthey/DataVisualizationPortfolioProjects/blob/main/PowerBI/Sales%20Dashboard%20Screenshot.PNG)
