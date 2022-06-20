@@ -1,200 +1,117 @@
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Jan', 1001, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Chalie Barns', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Jan', 1002, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Juan Hernandez', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Jan', 1003, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Doug Smith', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Jan', 1004, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Chalie Barns', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Jan', 1005, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Doug Smith', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Jan', 1006, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Doug Smith', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Jan', 1007, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Hellen Johnson', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Jan', 1008, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Doug Smith', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Jan', 1009, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Doug Smith', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Jan', 1010, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Juan Hernandez', 'CO');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Jan', 1011, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Juan Hernandez', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Jan', 1012, 4421, 'Skimmer', 45.00, 87.00, 42.00, 4.00, 'Doug Smith', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Jan', 1013, 9212, '1 Gal Muratic Acid', 4.00, 7.00, 3.00, 0.00, 'Hellen Johnson', 'CO');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Jan', 1014, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Chalie Barns', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Jan', 1015, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Hellen Johnson', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Jan', 1016, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Feb', 1017, 2242, 'AutoVac', 60.00, 124.00, 64.00, 6.00, 'Juan Hernandez', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Feb', 1018, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Feb', 1019, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Doug Smith', 'CO');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Feb', 1020, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Doug Smith', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Feb', 1021, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Juan Hernandez', 'CO');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Feb', 1022, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Doug Smith', 'UT');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Feb', 1023, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Hellen Johnson', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Feb', 1024, 9212, '1 Gal Muratic Acid', 4.00, 7.00, 3.00, 0.00, 'Juan Hernandez', 'UT');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Feb', 1025, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Hellen Johnson', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Feb', 1026, 6119, 'Algea Killer 8 oz', 9.00, 14.00, 5.00, 1.00, 'Hellen Johnson', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Feb', 1027, 6119, 'Algea Killer 8 oz', 9.00, 14.00, 5.00, 1.00, 'Chalie Barns', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Feb', 1028, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Chalie Barns', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Feb', 1029, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Juan Hernandez', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Feb', 1030, 4421, 'Skimmer', 45.00, 87.00, 42.00, 4.00, 'Juan Hernandez', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Feb', 1031, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Juan Hernandez', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Feb', 1032, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Chalie Barns', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Feb', 1033, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Juan Hernandez', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Feb', 1034, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Juan Hernandez', 'CO');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Mar', 1035, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Hellen Johnson', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Mar', 1036, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Juan Hernandez', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Mar', 1037, 6622, '5 Gal Chlorine', 42.00, 77.00, 35.00, 4.00, 'Juan Hernandez', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Mar', 1038, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Juan Hernandez', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Mar', 1039, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Juan Hernandez', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Mar', 1040, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Juan Hernandez', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Mar', 1041, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Chalie Barns', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Mar', 1042, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Doug Smith', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Mar', 1043, 2242, 'AutoVac', 60.00, 124.00, 64.00, 6.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Mar', 1044, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Mar', 1045, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Hellen Johnson', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Mar', 1046, 6119, 'Algea Killer 8 oz', 9.00, 14.00, 5.00, 1.00, 'Juan Hernandez', 'UT');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Mar', 1047, 6622, '5 Gal Chlorine', 42.00, 77.00, 35.00, 4.00, 'Hellen Johnson', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Mar', 1048, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Chalie Barns', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('April', 1049, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Chalie Barns', 'CO');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('April', 1050, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Chalie Barns', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('April', 1051, 6119, 'Algea Killer 8 oz', 9.00, 14.00, 5.00, 1.00, 'Doug Smith', 'UT');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('April', 1052, 6622, '5 Gal Chlorine', 42.00, 77.00, 35.00, 4.00, 'Doug Smith', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('April', 1053, 2242, 'AutoVac', 60.00, 124.00, 64.00, 6.00, 'Chalie Barns', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('April', 1054, 4421, 'Skimmer', 45.00, 87.00, 42.00, 4.00, 'Doug Smith', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('April', 1055, 6119, 'Algea Killer 8 oz', 9.00, 14.00, 5.00, 1.00, 'Juan Hernandez', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('April', 1056, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('April', 1057, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Juan Hernandez', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('April', 1058, 6119, 'Algea Killer 8 oz', 9.00, 14.00, 5.00, 1.00, 'Hellen Johnson', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('April', 1059, 2242, 'AutoVac', 60.00, 124.00, 64.00, 6.00, 'Doug Smith', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('April', 1060, 6119, 'Algea Killer 8 oz', 9.00, 14.00, 5.00, 1.00, 'Doug Smith', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('May', 1061, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Doug Smith', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('May', 1062, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Chalie Barns', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('May', 1063, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('May', 1064, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Hellen Johnson', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('May', 1065, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Doug Smith', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('May', 1066, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Doug Smith', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('May', 1067, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Doug Smith', 'UT');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('May', 1068, 6119, 'Algea Killer 8 oz', 9.00, 14.00, 5.00, 1.00, 'Juan Hernandez', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('May', 1069, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Doug Smith', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('May', 1070, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Hellen Johnson', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('May', 1071, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Chalie Barns', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('May', 1072, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Doug Smith', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('May', 1073, 6622, '5 Gal Chlorine', 42.00, 77.00, 35.00, 4.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('May', 1074, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Doug Smith', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('May', 1075, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Hellen Johnson', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('May', 1076, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Juan Hernandez', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('May', 1077, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Hellen Johnson', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('May', 1078, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Juan Hernandez', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1079, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Juan Hernandez', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1080, 4421, 'Skimmer', 45.00, 87.00, 42.00, 4.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1081, 6119, 'Algea Killer 8 oz', 9.00, 14.00, 5.00, 1.00, 'Doug Smith', 'UT');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1082, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Chalie Barns', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1083, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Chalie Barns', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1084, 6119, 'Algea Killer 8 oz', 9.00, 14.00, 5.00, 1.00, 'Chalie Barns', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1085, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Doug Smith', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1086, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Hellen Johnson', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1087, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Chalie Barns', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1088, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Chalie Barns', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1089, 6119, 'Algea Killer 8 oz', 9.00, 14.00, 5.00, 1.00, 'Doug Smith', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1090, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Chalie Barns', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1091, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Hellen Johnson', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1092, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1093, 6119, 'Algea Killer 8 oz', 9.00, 14.00, 5.00, 1.00, 'Juan Hernandez', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1094, 6119, 'Algea Killer 8 oz', 9.00, 14.00, 5.00, 1.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1095, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Hellen Johnson', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1096, 6119, 'Algea Killer 8 oz', 9.00, 14.00, 5.00, 1.00, 'Doug Smith', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1097, 9212, '1 Gal Muratic Acid', 4.00, 7.00, 3.00, 0.00, 'Hellen Johnson', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('June', 1098, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Juan Hernandez', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1099, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1100, 6119, 'Algea Killer 8 oz', 9.00, 14.00, 5.00, 1.00, 'Chalie Barns', 'UT');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1101, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1102, 2242, 'AutoVac', 60.00, 124.00, 64.00, 6.00, 'Juan Hernandez', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1103, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Juan Hernandez', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1104, 2877, 'Net', 11.00, 16.00, 5.00, 1.00, 'Doug Smith', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1105, 2499, '8 ft Hose', 6.00, 9.00, 3.00, 0.00, 'Juan Hernandez', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1106, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Juan Hernandez', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1107, 1109, 'Chlorine Test Kit', 3.00, 8.00, 5.00, 1.00, 'Hellen Johnson', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1108, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Doug Smith', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1109, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Juan Hernandez', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1110, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Hellen Johnson', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1111, 6622, '5 Gal Chlorine', 42.00, 77.00, 35.00, 4.00, 'Hellen Johnson', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1112, 6622, '5 Gal Chlorine', 42.00, 77.00, 35.00, 4.00, 'Doug Smith', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1113, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Chalie Barns', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1114, 2242, 'AutoVac', 60.00, 124.00, 64.00, 6.00, 'Juan Hernandez', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1115, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Chalie Barns', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1116, 6622, '5 Gal Chlorine', 42.00, 77.00, 35.00, 4.00, 'Doug Smith', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1117, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Hellen Johnson', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1118, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Juan Hernandez', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1119, 2242, 'AutoVac', 60.00, 124.00, 64.00, 6.00, 'Chalie Barns', 'UT');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1120, 2242, 'AutoVac', 60.00, 124.00, 64.00, 6.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1121, 4421, 'Skimmer', 45.00, 87.00, 42.00, 4.00, 'Doug Smith', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1122, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Doug Smith', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1123, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Doug Smith', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('July', 1124, 4421, 'Skimmer', 45.00, 87.00, 42.00, 4.00, 'Doug Smith', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Aug', 1125, 2242, 'AutoVac', 60.00, 124.00, 64.00, 6.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Aug', 1126, 9212, '1 Gal Muratic Acid', 4.00, 7.00, 3.00, 0.00, 'Doug Smith', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Aug', 1127, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Chalie Barns', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Aug', 1128, 6622, '5 Gal Chlorine', 42.00, 77.00, 35.00, 4.00, 'Juan Hernandez', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Aug', 1129, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Hellen Johnson', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Aug', 1130, 4421, 'Skimmer', 45.00, 87.00, 42.00, 4.00, 'Hellen Johnson', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Aug', 1131, 9212, '1 Gal Muratic Acid', 4.00, 7.00, 3.00, 0.00, 'Hellen Johnson', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Aug', 1132, 9212, '1 Gal Muratic Acid', 4.00, 7.00, 3.00, 0.00, 'Hellen Johnson', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Aug', 1133, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Chalie Barns', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Aug', 1134, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Doug Smith', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Aug', 1135, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Chalie Barns', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Aug', 1136, 2242, 'AutoVac', 60.00, 124.00, 64.00, 6.00, 'Doug Smith', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Aug', 1137, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Juan Hernandez', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Aug', 1138, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Chalie Barns', 'UT');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Aug', 1139, 4421, 'Skimmer', 45.00, 87.00, 42.00, 4.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Aug', 1140, 4421, 'Skimmer', 45.00, 87.00, 42.00, 4.00, 'Juan Hernandez', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Aug', 1141, 9212, '1 Gal Muratic Acid', 4.00, 7.00, 3.00, 0.00, 'Juan Hernandez', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Sept', 1142, 2242, 'AutoVac', 60.00, 124.00, 64.00, 6.00, 'Juan Hernandez', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Sept', 1143, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Hellen Johnson', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Sept', 1144, 2242, 'AutoVac', 60.00, 124.00, 64.00, 6.00, 'Hellen Johnson', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Sept', 1145, 4421, 'Skimmer', 45.00, 87.00, 42.00, 4.00, 'Hellen Johnson', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Sept', 1146, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Hellen Johnson', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Sept', 1147, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Chalie Barns', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Sept', 1148, 9212, '1 Gal Muratic Acid', 4.00, 7.00, 3.00, 0.00, 'Doug Smith', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Sept', 1149, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Chalie Barns', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Oct', 1150, 2242, 'AutoVac', 60.00, 124.00, 64.00, 6.00, 'Doug Smith', 'UT');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Oct', 1151, 2242, 'AutoVac', 60.00, 124.00, 64.00, 6.00, 'Juan Hernandez', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Oct', 1152, 4421, 'Skimmer', 45.00, 87.00, 42.00, 4.00, 'Chalie Barns', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Oct', 1153, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Doug Smith', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Oct', 1154, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Juan Hernandez', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Oct', 1155, 4421, 'Skimmer', 45.00, 87.00, 42.00, 4.00, 'Doug Smith', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Oct', 1156, 2242, 'AutoVac', 60.00, 124.00, 64.00, 6.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Oct', 1157, 9212, '1 Gal Muratic Acid', 4.00, 7.00, 3.00, 0.00, 'Doug Smith', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Nov', 1158, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Chalie Barns', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Nov', 1159, 6622, '5 Gal Chlorine', 42.00, 77.00, 35.00, 4.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Nov', 1160, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Hellen Johnson', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Nov', 1161, 4421, 'Skimmer', 45.00, 87.00, 42.00, 4.00, 'Juan Hernandez', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Nov', 1162, 9212, '1 Gal Muratic Acid', 4.00, 7.00, 3.00, 0.00, 'Chalie Barns', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Nov', 1163, 9212, '1 Gal Muratic Acid', 4.00, 7.00, 3.00, 0.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Nov', 1164, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Doug Smith', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Nov', 1165, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Doug Smith', 'AZ');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Nov', 1166, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Doug Smith', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Dec', 1167, 2242, 'AutoVac', 60.00, 124.00, 64.00, 6.00, 'Doug Smith', 'NM');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Dec', 1168, 9822, 'Pool Cover', 58.00, 98.00, 40.00, 4.00, 'Doug Smith', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Dec', 1169, 8722, 'Water Pump', 344.00, 502.00, 158.00, 16.00, 'Doug Smith', 'UT');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Dec', 1170, 4421, 'Skimmer', 45.00, 87.00, 42.00, 4.00, 'Chalie Barns', 'CA');
-INSERT INTO `Sales Database Data Exploration` (`month`, `trans_num`, `pro_code`, `pro_line`, `store_cost`, `sales_price`, `profit`, `commission`, `sales_person`, `sale_loc`) VALUES ('Dec', 1171, 4421, 'Skimmer', 45.00, 87.00, 42.00, 4.00, 'Juan Hernandez', 'NV');
-INSERT INTO `Sales Database Data Exploration` (`Field`, `Type`, `Null`, `Key`, `Default`, `Extra`) VALUES ('month', 'varchar(255)', 'YES', '', NULL, '');
-INSERT INTO `Sales Database Data Exploration` (`Field`, `Type`, `Null`, `Key`, `Default`, `Extra`) VALUES ('trans_num', 'int', 'YES', '', NULL, '');
-INSERT INTO `Sales Database Data Exploration` (`Field`, `Type`, `Null`, `Key`, `Default`, `Extra`) VALUES ('pro_code', 'int', 'YES', '', NULL, '');
-INSERT INTO `Sales Database Data Exploration` (`Field`, `Type`, `Null`, `Key`, `Default`, `Extra`) VALUES ('pro_line', 'varchar(255)', 'YES', '', NULL, '');
-INSERT INTO `Sales Database Data Exploration` (`Field`, `Type`, `Null`, `Key`, `Default`, `Extra`) VALUES ('store_cost', 'decimal(5,2)', 'YES', '', NULL, '');
-INSERT INTO `Sales Database Data Exploration` (`Field`, `Type`, `Null`, `Key`, `Default`, `Extra`) VALUES ('sales_price', 'decimal(5,2)', 'YES', '', NULL, '');
-INSERT INTO `Sales Database Data Exploration` (`Field`, `Type`, `Null`, `Key`, `Default`, `Extra`) VALUES ('profit', 'decimal(5,2)', 'YES', '', NULL, '');
-INSERT INTO `Sales Database Data Exploration` (`Field`, `Type`, `Null`, `Key`, `Default`, `Extra`) VALUES ('commission', 'float(4,2)', 'YES', '', NULL, '');
-INSERT INTO `Sales Database Data Exploration` (`Field`, `Type`, `Null`, `Key`, `Default`, `Extra`) VALUES ('sales_person', 'varchar(255)', 'YES', '', NULL, '');
-INSERT INTO `Sales Database Data Exploration` (`Field`, `Type`, `Null`, `Key`, `Default`, `Extra`) VALUES ('sale_loc', 'varchar(255)', 'YES', '', NULL, '');
-INSERT INTO `Sales Database Data Exploration` (`annual_revenue`) VALUES (17091.00);
-INSERT INTO `Sales Database Data Exploration` (`annual_cost`) VALUES (10734.00);
-INSERT INTO `Sales Database Data Exploration` (`annual_profit`) VALUES (5721.30);
-INSERT INTO `Sales Database Data Exploration` (`month`, `monthly_sales`) VALUES ('July', 3989.00);
-INSERT INTO `Sales Database Data Exploration` (`month`, `monthly_sales`) VALUES ('Aug', 2512.00);
-INSERT INTO `Sales Database Data Exploration` (`month`, `monthly_sales`) VALUES ('Mar', 1874.00);
-INSERT INTO `Sales Database Data Exploration` (`month`, `monthly_sales`) VALUES ('Sept', 1542.00);
-INSERT INTO `Sales Database Data Exploration` (`month`, `monthly_sales`) VALUES ('Nov', 1476.00);
-INSERT INTO `Sales Database Data Exploration` (`month`, `monthly_sales`) VALUES ('Jan', 1416.00);
-INSERT INTO `Sales Database Data Exploration` (`month`, `monthly_sales`) VALUES ('Oct', 1153.00);
-INSERT INTO `Sales Database Data Exploration` (`month`, `monthly_sales`) VALUES ('Feb', 969.00);
-INSERT INTO `Sales Database Data Exploration` (`month`, `monthly_sales`) VALUES ('Dec', 898.00);
-INSERT INTO `Sales Database Data Exploration` (`month`, `monthly_sales`) VALUES ('April', 510.00);
-INSERT INTO `Sales Database Data Exploration` (`month`, `monthly_sales`) VALUES ('June', 407.00);
-INSERT INTO `Sales Database Data Exploration` (`month`, `monthly_sales`) VALUES ('May', 345.00);
-INSERT INTO `Sales Database Data Exploration` (`sales_person`, `SUM(sales_price)`) VALUES ('Chalie Barns', 6000.00);
-INSERT INTO `Sales Database Data Exploration` (`sales_person`, `SUM(sales_price)`) VALUES ('Doug Smith', 5654.00);
-INSERT INTO `Sales Database Data Exploration` (`sales_person`, `SUM(sales_price)`) VALUES ('Hellen Johnson', 3032.00);
-INSERT INTO `Sales Database Data Exploration` (`sales_person`, `SUM(sales_price)`) VALUES ('Juan Hernandez', 2405.00);
+/* Calculating the values of the profit field*/
+
+UPDATE `Sales Database`
+	SET profit = (sales_price - store_cost);
+	
+SELECT * FROM `Sales Database`;
+
+-- ------------------------------------------------------------------------------------------------------------------
+
+/*Correcting field datatypes*/
+
+ALTER TABLE `Sales Database`
+	MODIFY COLUMN pro_code INT;
+	
+ALTER TABLE `Sales Database`
+	MODIFY COLUMN trans_num INT;
+	
+/*Receiving truncating error for the above query, so checking the data type as a previous query worked successfully*/
+
+SHOW COLUMNS FROM `Sales Database`;
+
+/*Confirmed that the trans_num column data type has not changed successfully. moving forward to other fields.*/
+
+ALTER TABLE `Sales Database`
+	MODIFY COLUMN store_cost DECIMAL(5,2);
+	
+ALTER TABLE `Sales Database`
+	MODIFY COLUMN sales_price DECIMAL(5,2);
+	
+ALTER TABLE `Sales Database`
+	MODIFY COLUMN profit DECIMAL(5,2);
+	
+ALTER TABLE `Sales Database`
+	MODIFY COLUMN trans_num INT;
+	
+/*Successfully modified trans_num data type after re-uploading source file and updating all fields queried so far. Moving forward with calculations*/
+	
+-- ------------------------------------------------------------------------------------------------------------------
+
+/* Calculating the values of the commission field and correcting data type*/
+
+UPDATE `Sales Database`
+	SET commission = (.10 * profit);
+	
+ALTER TABLE `Sales Database`
+	MODIFY COLUMN commission FLOAT(4,2);
+	
+-- ------------------------------------------------------------------------------------------------------------------
+
+/*How much revenue and profit was generated this year?*/
+
+SELECT SUM(sales_price) AS annual_revenue
+	FROM `Sales Database`;
+	
+SELECT SUM(store_cost) AS annual_cost
+FROM `Sales Database`;
+
+SELECT (SUM(profit) - SUM(commission)) AS annual_profit
+	FROM `Sales Database`;
+	
+/*What are the monthly sales totals and which month generated the most revenue? Order from greatest to least*/
+
+SELECT month,SUM(sales_price) AS monthly_sales
+	FROM `Sales Database`
+	GROUP BY month
+	ORDER BY monthly_sales DESC
+;
+
+/*Which sales person generated the most revenue from most to least?*/
+
+SELECT sales_person,SUM(sales_price)
+	FROM `Sales Database`
+	GROUP BY sales_person
+	ORDER BY SUM(sales_price) DESC
+;
+
+ALTER TABLE `Sales Database`
+	RENAME COLUMN sale_price TO sales_price;
+	
+/*Calculate the sum of sales by product line to see which product line has the highest sales. Also find how many orders per product were made*/
+
+ALTER TABLE `Sales Database`
+	RENAME COLUMN pro_desc to pro_line;
+
+SELECT pro_code,pro_line,sum(sales_price) AS pro_revenue,count(*) AS order_records
+	FROM `Sales Database`
+	GROUP BY pro_code,pro_line
+	ORDER BY pro_revenue DESC
+;
+
+/*Now we'll include July since it's our best month revenue wise*/
+
+SELECT month,pro_line,sum(sales_price) AS pro_revenue
+	FROM `Sales Database`
+	WHERE month = 'July'
+	GROUP BY pro_line
+	ORDER BY pro_revenue DESC
+;
+
+/*Lastly, which market generated the most revenue then provide a breakdown of each state revenue total by product line. Order from most to least*/
+
+SELECT sale_loc,sum(sales_price) AS state_revenue
+	FROM `Sales Database`
+	GROUP BY sale_loc
+	ORDER BY state_revenue DESC
+;
+
+SELECT sale_loc,pro_line,sum(sales_price) AS state_rev_breakdown
+	FROM `Sales Database`
+	GROUP BY sale_loc,pro_line
+	ORDER BY sale_loc,state_rev_breakdown DESC
+;
+
+SELECT * FROM `Sales Database`;
+
+SELECT month,pro_code,pro_line,store_cost,sales_price,profit,commission,sales_person,sale_loc
+	FROM `Sales Database`;
