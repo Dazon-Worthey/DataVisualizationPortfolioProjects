@@ -39,5 +39,5 @@
 ![Dashboard](excel-project-files/excel-project-visuals/10K_Business_Loan_Options.png)
 
 - [x] **SQL** - 
-
-
+Crystal Sales Database: Data Exploration
+Review the SQL Script: SQL/Sales Database Data Exploration.sql
