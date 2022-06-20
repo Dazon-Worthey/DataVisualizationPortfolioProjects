@@ -43,3 +43,9 @@
 - Crystal Sales Database: Data Exploration
 
 *Review the SQL Script: [HERE](https://github.com/Dazon-Worthey/DataVisualizationPortfolioProjects/blob/main/SQL/Sales%20Database%20Data%20Exploration.sql)* <br />
+
+- [x] **PowerBI** - 
+
+- Sales Data Analysis Project: Data Visualization
+
+!![Dashboard](PowerBI/Sales Dashboard Screenshot.PNG)
