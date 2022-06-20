@@ -1,5 +1,5 @@
 # Data Analysis & Visualization Portfolio Projects
-## The following are my projects in Excel: <br />
+## The following are my projects in Excel, SQL, and PowerBI: <br />
 #### *Feel free to connect with me on Linkedin : [Dazon Worthey](https://www.linkedin.com/in/dazonw/)* <br />
 
 - [x] **Excel** - 
