@@ -48,4 +48,4 @@
 
 - Sales Data Analysis Project: Data Visualization
 
-!![Dashboard](PowerBI/Sales Dashboard Screenshot.PNG)
+![Dashboard](PowerBI/Sales Dashboard Screenshot.PNG)
