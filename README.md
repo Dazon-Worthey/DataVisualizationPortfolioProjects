@@ -50,4 +50,4 @@
 
 ![Dashboard](https://github.com/Dazon-Worthey/DataVisualizationPortfolioProjects/blob/main/PowerBI/Sales%20Dashboard%20Screenshot.PNG)
 
-![Dashboard](PowerBI/Portfolio Dashboard V2.PNG)
+![Dashboard](https://github.com/Dazon-Worthey/DataVisualizationPortfolioProjects/blob/main/PowerBI/Portfolio%20Dashboard%20V2.PNG)
